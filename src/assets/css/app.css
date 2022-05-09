@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+* {
+  font-family: "Poppins";
+}
+
+.router-link-exact-active {
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: 300;
+}
+
+.btn-success {
+  background-color: #42b983;
+}
+
+.bg-success {
+  background-color: #42b983;
+}
+
+.card-product {
+  border-radius: 15px;
+}
+
+.card-product .card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.breadcrumb-item.active {
+  font-weight: 600;
+  color: #000;
+}
+
+.img-detail-food {
+  border-radius: 15px;
+}
